@@ -1,0 +1,4 @@
+keras_tuner
+matplotlib
+numpy
+tensorflow
